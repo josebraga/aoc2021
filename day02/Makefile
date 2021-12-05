@@ -7,4 +7,4 @@ day2:	day2.l day2.y
 	cc -o $@ day2.tab.c lex.yy.c -lfl
 
 clean:
-	rm -f day2 lex.yy.c day2.tab.* *~
+	rm -f day2 lex.yy.c *.tab.* *~
