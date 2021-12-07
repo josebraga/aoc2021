@@ -1,7 +1,7 @@
 /* Advent of Code 2021, day 2, flex file */
 
 %{
-# include "day2.tab.h"
+# include "day02.tab.h"
 %}
 
 %%

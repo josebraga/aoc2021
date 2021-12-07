@@ -1,10 +1,10 @@
 # part of the makefile
-all:    day2
+all:    day02
 
-day2:	day2.l day2.y
-	bison -d day2.y
-	flex day2.l
-	cc -o $@ day2.tab.c lex.yy.c -lfl
+day02:	day02.l day02.y
+	bison -d $@.y
+	flex $@.l
+	cc -o $@ $@.tab.c lex.yy.c -lfl
 
 clean:
-	rm -f day2 lex.yy.c *.tab.* *~
+	rm -f day02 lex.yy.c *.tab.* *~

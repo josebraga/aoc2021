@@ -1,9 +1,10 @@
 # aoc2021
 Advent of Code 2021
 
-* [Day 1](day01/README.md): AWK
-* [Day 2](day02/README.md): lex/yacc
-* [Day 3](day03/README.md): D
-* [Day 4](day04/README.md): shell scripting
-* [Day 5](day05/README.md): Go
-* [Day 6](day06/README.md): Ruby
+* [Day 1](day01/README.md): [AWK](day01/day01.awk)
+* [Day 2](day02/README.md): [lex](day02/day02.l)/[yacc](day02/day02.y)
+* [Day 3](day03/README.md): [D](day03/day03.d)
+* [Day 4](day04/README.md): [shell](day04/day04.sh)
+* [Day 5](day05/README.md): [Go](day05/day05.go)
+* [Day 6](day06/README.md): [Ruby](day06/day06.rb)
+* [Day 7](day07/README.md): [Python](day07/day07.py)
