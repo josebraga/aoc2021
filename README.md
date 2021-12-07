@@ -1,5 +1,4 @@
-# aoc2021
-Advent of Code 2021
+# Advent of Code 2021
 
 * [Day 1](day01/README.md): [AWK](day01/day01.awk)
 * [Day 2](day02/README.md): [lex](day02/day02.l)/[yacc](day02/day02.y)
