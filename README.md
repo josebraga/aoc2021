@@ -8,3 +8,4 @@
 * [Day 6](day06/README.md): [Ruby](day06/day06.rb)
 * [Day 7](day07/README.md): [Python](day07/day07.py)
 * [Day 8](day08/README.md): [shell](day08/day08.sh)
+* [Day 9](day09/README.md): [Perl](day09/day09.pl)
