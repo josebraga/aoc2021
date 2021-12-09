@@ -7,3 +7,4 @@
 * [Day 5](day05/README.md): [Go](day05/day05.go)
 * [Day 6](day06/README.md): [Ruby](day06/day06.rb)
 * [Day 7](day07/README.md): [Python](day07/day07.py)
+* [Day 8](day08/README.md): [shell](day08/day08.sh)
