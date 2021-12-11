@@ -10,3 +10,4 @@
 * [Day 8](day08/README.md): [shell](day08/day08.sh)
 * [Day 9](day09/README.md): [Perl](day09/day09.pl)
 * [Day 10](day10/README.md): [Raku](day10/day10.raku)
+* [Day 11](day11/README.md): [Perl](day11/day11.pl)
