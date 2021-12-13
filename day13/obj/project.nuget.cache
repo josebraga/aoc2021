@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Sw7GtYq2GFBxgbPm3LOncqOAygMRWRvnwjDhmcadHUW6b1f3EvhLn3iXDwjq4LJMhJxg5yfKDe5E61phGWHEw==",
+  "success": true,
+  "projectFilePath": "/home/jmabr/workspace/jungle/advent-of-code-2021/day13/day13.csproj",
+  "expectedPackageFiles": [
+    "/home/jmabr/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
