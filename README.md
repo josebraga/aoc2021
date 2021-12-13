@@ -11,3 +11,5 @@
 * [Day 9](day09/README.md): [Perl](day09/day09.pl)
 * [Day 10](day10/README.md): [Raku](day10/day10.raku)
 * [Day 11](day11/README.md): [Perl](day11/day11.pl)
+* [Day 12](day12/README.md): [C++](day12/day12.cpp)
+
