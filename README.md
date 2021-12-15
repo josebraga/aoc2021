@@ -1,5 +1,9 @@
 # Advent of Code 2021
 
+No strict rules applied here
+
+Will try to pick new languages and freshen up on older ones.. But for sure will use familiar tools once in a while :)
+
 * [Day 1](day01/README.md): [AWK](day01/day01.awk)
 * [Day 2](day02/README.md): [lex](day02/day02.l)/[yacc](day02/day02.y)
 * [Day 3](day03/README.md): [D](day03/day03.d)
@@ -13,4 +17,5 @@
 * [Day 11](day11/README.md): [Perl](day11/day11.pl)
 * [Day 12](day12/README.md): [C++](day12/day12.cpp)
 * [Day 13](day13/README.md): [C\#](day13/Program.cs)
+* [Day 14](day14/README.md): [C++](day14/day14.cpp)
 
