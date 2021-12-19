@@ -21,4 +21,5 @@ Will try to pick new languages and freshen up on older ones.. But for sure will 
 * [Day 15](day15/README.md): [C\#](day15/Program.cs)
 * [Day 16](day16/README.md): [Zig](day16/day16.zig)
 * [Day 17](day17/README.md): [Julia](day17/day17.jl)
+* [Day 18](day18/README.md): [Rust](day18/day18.rs)
 
