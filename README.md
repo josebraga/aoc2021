@@ -23,3 +23,4 @@ Will try to pick new languages and freshen up on older ones.. But for sure will 
 * [Day 17](day17/README.md): [Julia](day17/day17.jl)
 * [Day 18](day18/README.md): [Rust](day18/day18.rs)
 * [Day 20](day20/README.md): [Ruby](day20/day20.rb)
+* [Day 21](day21/README.md): [Clojure](day21/src/main.clj)
