@@ -25,3 +25,4 @@ Will try to pick new languages and freshen up on older ones.. But for sure will 
 * [Day 20](day20/README.md): [Ruby](day20/day20.rb)
 * [Day 21](day21/README.md): [Clojure](day21/src/main.clj)
 * [Day 22](day22/README.md): [Groovy](day22/day22.groovy)
+* [Day 23](day23/README.md): [Pen \& Paper](day23/day23.md)
