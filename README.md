@@ -1,4 +1,4 @@
-# Advent of Code 2021
+o# Advent of Code 2021
 
 No strict rules applied here
 
@@ -24,3 +24,4 @@ Will try to pick new languages and freshen up on older ones.. But for sure will 
 * [Day 18](day18/README.md): [Rust](day18/day18.rs)
 * [Day 20](day20/README.md): [Ruby](day20/day20.rb)
 * [Day 21](day21/README.md): [Clojure](day21/src/main.clj)
+* [Day 22](day22/README.md): [Groovy](day22/day22.groovy)
