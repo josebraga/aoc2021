@@ -1,4 +1,4 @@
-o# Advent of Code 2021
+# Advent of Code 2021
 
 No strict rules applied here
 
@@ -22,7 +22,10 @@ Will try to pick new languages and freshen up on older ones.. But for sure will 
 * [Day 16](day16/README.md): [Zig](day16/day16.zig)
 * [Day 17](day17/README.md): [Julia](day17/day17.jl)
 * [Day 18](day18/README.md): [Rust](day18/day18.rs)
+* [Day 19]
 * [Day 20](day20/README.md): [Ruby](day20/day20.rb)
 * [Day 21](day21/README.md): [Clojure](day21/src/main.clj)
 * [Day 22](day22/README.md): [Groovy](day22/day22.groovy)
 * [Day 23](day23/README.md): [Pen \& Paper](day23/day23.md)
+* [Day 24]
+* [Day 25](day25/README.md): [Ruby](day25/day25.rb)
